@@ -14,13 +14,25 @@ const players = [
     name: "Neymar Jr",
     id: getId(),
     country: "Brazil",
-    club: "Santos Fc",
+    club: "Santos FC",
   },
   {
     name: "Lionel Messi",
     id: getId(),
     country: "Argentina",
     club: "Inter Miami",
+  },
+  {
+    name: "Kylian Mbappe",
+    id: getId(),
+    country: "France",
+    club: "Real Madrid",
+  },
+  {
+    name: "Lamine Yamal",
+    id: getId(),
+    country: "Spain",
+    club: "Barcelona FC",
   },
 ];
 
