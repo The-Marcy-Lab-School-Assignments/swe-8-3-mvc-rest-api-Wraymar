@@ -33,6 +33,12 @@ const players = [
     country: "Spain",
     club: "Barcelona FC",
   },
+  {
+    name: "Jude Bellingham",
+    id: getId(),
+    country: "England",
+    club: "Real Madrid",
+  },
 ];
 
 //now we create a class that will be used to create a new soccer player to add to the mock database

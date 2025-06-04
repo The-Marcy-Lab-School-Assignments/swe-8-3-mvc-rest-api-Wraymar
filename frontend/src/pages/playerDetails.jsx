@@ -24,7 +24,7 @@ const PlayerDetails = () => {
       setPlayer(foundPlayer);
     };
     doFetch();
-  }, [player]);
+  }, [id]);
 
   // when the delete button is pressed, send a DELETE request
   const handleDeletePlayer = async () => {
